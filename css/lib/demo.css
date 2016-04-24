@@ -5,9 +5,43 @@
     background: url(/images/hcw.png);
     width: 160px;
     height: 46px;
-margin-top:9px;
+    margin-top:9px;
     background-size: 160px 46px;
     display: block;
+}
+nav ul a{
+	color:#212121!important;
+}
+.heif{
+	background:#3e424b;
+}
+.heif.darken-1{
+	background:#373b44;
+}
+.fixbg{
+	background:rgba(255,255,255,0.8)!important;
+}
+.follow-link{
+	color:rgba(255,255,255,0.6);
+	display:inline-block;
+	
+}
+.follow-link:hover{
+	color:#e0e0e0;
+}
+.hui-text{
+	color:#e0e0e0;
+}
+.video-container{
+	position:relative;
+	z-index:0;
+	overflow: hidden;
+	width:100%;
+	height:460px;
+}
+video.fillWidth {
+    width: 100%;
+    z-index: 0;
 }
 /*.fix-header{
 	position:fixed;

@@ -173,7 +173,7 @@ body {
   font-family: "Roboto", "sans-serif", "微软雅黑", "Helvetica Neue";
 }
 body {
-  background-color: #f5f5f5;
+  background-color: #eee;
   display: -webkit-box;
   display: -moz-box;
   display: -webkit-flex;
@@ -496,7 +496,7 @@ article .toc-child {
 }
 a.social-link {
   display: inline-block;
-  color: #f5f5f5;
+  color: rgba(255,255,255,0.6);
   margin-right: 10px;
 }
 a.social-link:hover {
