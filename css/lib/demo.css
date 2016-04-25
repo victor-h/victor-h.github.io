@@ -4,9 +4,9 @@
     overflow: hidden;
     background: url(/images/hcw.png);
     width: 160px;
-    height: 46px;
-    margin-top:9px;
-    background-size: 160px 46px;
+    height: 40px;
+    margin-top:12px;
+    background-size: 160px 40px;
     display: block;
 }
 nav ul a{
